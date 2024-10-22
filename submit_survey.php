@@ -2,9 +2,9 @@
 header('Content-Type: application/json');
 
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "appdev";
+$username = "connected";
+$password = "Connected_1";
+$dbname = "devapp";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
