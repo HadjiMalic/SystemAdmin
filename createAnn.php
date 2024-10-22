@@ -58,7 +58,7 @@
 </head>
 <body>
 <div class="container">
-    <h2>Add New Announcement Here
+    <h2>Add New Announcement
     
     </h2>
     <form action="process_announcement.php" method="POST">

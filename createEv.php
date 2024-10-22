@@ -61,7 +61,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h2>Add New Event Here</h2>
+        <h2>Add New Event</h2>
         <form action="process_event.php" method="POST" id="eventForm">
             <div class="form-group">
                 <label for="name">Name</label>

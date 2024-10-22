@@ -121,7 +121,7 @@ body {
 </head>
 <body>
     <div class="container">
-        <h2 style="padding-top:20px; font-weight:bold; ">Edit Event Here</h2>
+        <h2 style="padding-top:20px; font-weight:bold; ">Edit Event</h2>
         <form action="updateEvent.php" method="POST">
             <div class="form-group">
                 <label for="name">Event Name</label>

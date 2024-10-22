@@ -116,7 +116,7 @@ $conn->close();
     </style>
 <body>
 <div class="container mt-3">
-    <h3>Edit User Here</h3>
+    <h3>Edit User</h3>
     <form action="updateUser.php" method="POST">
         <input type="hidden" name="student_id" value="<?php echo $user['student_id']; ?>">
         <div class="form-group">
